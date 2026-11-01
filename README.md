@@ -1,3 +1,7 @@
+![Jit TV — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Jit TV — Production Engineering & Workflow Architecture
 ## Channel Branding · Regional Broadcaster · Channel Branding · Client: Jit TV
 
